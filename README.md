@@ -14,6 +14,7 @@ I'm a Computer Science student interested in web development, software engineeri
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=erpnext&logoColor=white)](https://erpnext.com/)
 
 
 ### 🚀 What I'm Working On
